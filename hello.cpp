@@ -3,6 +3,7 @@
 using namespace std;
 // #include <mpi.h>
 
+//hihi
 
 // int main (argc, argv)
 //      int argc;
